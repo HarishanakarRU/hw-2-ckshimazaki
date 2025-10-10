@@ -1,0 +1,1 @@
+I used ChatGPT to help understand and complete parts of this assignment, such as explaining git tags, repository setup, and step-by-step workflow instructions.
