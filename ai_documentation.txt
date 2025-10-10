@@ -1,2 +1,5 @@
 I used ChatGPT to help understand and complete parts of this assignment, such as explaining git tags, repository setup, and step-by-step workflow instructions.
 Checked package versions on the original LIGO Binder environment (NumPy 2.0, SciPy 1.13, Matplotlib 3.9, H5Py 3.12, Decorator 5.1). Used compatible major.minor versions in environment.yml to ensure reproducibility with Python 3.12.
+
+###  Binder Link Setup
+I asked ChatGPT how to create and format the correct Binder link for this repo. The assistant provided the proper URL structure and badge format, which I added to the README.
